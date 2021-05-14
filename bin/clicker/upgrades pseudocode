@@ -1,0 +1,14 @@
+user clicks a button n times to gain currency
+user will be able to upgrade multiplier to gain more money per click by spending currency
+when user click upgrade button a new window appears with a list of upgrades to purchase
+in the new window there will be multiple buttons with different options to upgrade
+
+----------------------------------------------------------------------
+Upgrades class
+	-displayed name
+	-multiplier
+	-purchase upgrade function will return amount to remove from players money
+----------------------------------------------------------------------
+Upgrades window
+	-will need an instance of money class
+	-will need a list of upgrades
